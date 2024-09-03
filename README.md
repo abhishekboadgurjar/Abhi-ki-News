@@ -21,8 +21,6 @@ Hello, developers! I’m excited to introduce my latest project: **Abhi ki News*
 - **CSS**: Styles the component to create a visually appealing and responsive design.
 - **JavaScript**: Handles data fetching, user interactions, and dynamically updates the content.
 
-
-
 ## Installation
 
 To get started with the project, follow these steps:
